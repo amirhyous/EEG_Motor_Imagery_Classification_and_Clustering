@@ -1,5 +1,5 @@
 
-# EEG Motor Imagery Classification and Clustering Project
+# EEG Motor Imagery Classification and Clustering 
 
 This project focuses on classifying and clustering EEG data collected during motor imagery tasks. The aim is to apply advanced signal processing techniques for **feature extraction**, followed by **dimensionality reduction** and **clustering** to understand EEG signals better. We also perform **classification** of motor imagery tasks using a variety of machine learning algorithms.
 
